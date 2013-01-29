@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Prashant Singh",
+    "email": "prashant@localdata.com",
+    "url": "http://localdata.com"
+  },
+  "name": "connect-lag",
+  "description": "Connect middleware to delay responses for local testing",
+  "version": "0.0.1",
+  "homepage": "https://github.com/localdata/connect-lag",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/localdata/connect-lag.git"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "pause": ">=0.0.1"
+  },
+  "devDependencies": {
+    "connect": ">=2.4.2"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "_id": "connect-lag@0.0.1",
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.4",
+  "_nodeVersion": "v0.8.5",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "089be2b29197cdc1d704c9245cfa229641188ebc"
+  },
+  "_from": "connect-lag@git://github.com/localdata/connect-lag.git"
+}
