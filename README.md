@@ -10,7 +10,7 @@ For now, you can point your `package.json` file at this repository:
 {
   "name": "cool-app",
   "dependencies": {
-    "connect-s3": "git://github.com/localdata/connect-lag.git"
+    "connect-lag": "git://github.com/localdata/connect-lag.git"
   }
 }
 ```
